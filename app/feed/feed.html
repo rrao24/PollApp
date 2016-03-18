@@ -1,0 +1,13 @@
+<ion-view view-title="Open Polls">
+  <ion-content>
+    <ion-list>
+    	<ion-item ng-repeat="poll in feed" href="#/app/playlists/{{poll.id}}">
+  			<div class="feed-poll-title">{{poll.id}}. {{poll.question}}</div>
+  			<ion-checkbox ng-repeat="response in poll.responses"
+                      ng-model="response.isChecked">
+          {{response.isChecked}}
+        </ion-checkbox>
+    	</ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

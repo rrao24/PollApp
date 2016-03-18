@@ -1,0 +1,265 @@
+[{
+  "id": 1,
+  "question": "Favorite color?",
+  "userId": 1,
+  "responses": [{
+    "id": 1,
+    "option": "Blue",
+    "selected": true,
+    "usersVoted": [{
+      "id": 2,
+      "firstName": "Ram",
+      "lastName": "Rao",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 1
+  }, {
+    "id": 2,
+    "option": "Red",
+    "selected": false,
+    "usersVoted": null,
+    "count": 0
+  }],
+  "voted": false,
+  "decision": 1,
+  "timeStamp": 1458015382589,
+  "expiration": 2458015382589,
+  "color": "red"
+}, {
+  "id": 2,
+  "question": "Favorite Video Game?",
+  "userId": 3,
+  "responses": [{
+    "id": 1,
+    "option": "Call of Duty",
+    "selected": true,
+    "usersVoted": [{
+      "id": 2,
+      "firstName": "Ram",
+      "lastName": "Rao",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }, {
+      "id": 1,
+      "firstName": "Jay",
+      "lastName": "Kabra",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 2
+  }, {
+    "id": 2,
+    "option": "Minecraft",
+    "selected": false,
+    "usersVoted": [{
+      "id": 4,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 1
+  }, {
+    "id": 3,
+    "option": "DOTA 2",
+    "selected": false,
+    "usersVoted": [{
+      "id": 5,
+      "firstName": "Brice",
+      "lastName": "Johnson",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 1
+  }],
+  "voted": true,
+  "decision": 1,
+  "timeStamp": 1558015382589,
+  "expiration": 2558015382589,
+  "color": "Blue"
+}, {
+  "id": 3,
+  "question": "Favorite Sports Team?",
+  "userId": 4,
+  "responses": [{
+    "id": 1,
+    "option": "UNC Tar Heels",
+    "selected": false,
+    "usersVoted": null,
+    "count": 0
+  }, {
+    "id": 2,
+    "option": "Duke Blue Devils",
+    "selected": false,
+    "usersVoted": null,
+    "count": 0
+  }],
+  "voted": false,
+  "decision": 0,
+  "timeStamp": 1458015382589,
+  "expiration": 2758015382589,
+  "color": "blue"
+}, {
+  "id": 4,
+  "question": "Favorite Flavor of Ice Cream?",
+  "userId": 1,
+  "responses": [{
+    "id": 1,
+    "option": "Vanilla",
+    "selected": true,
+    "usersVoted": [{
+      "id": 2,
+      "firstName": "Ram",
+      "lastName": "Rao",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 1
+  }, {
+    "id": 2,
+    "option": "Chocolate",
+    "selected": false,
+    "usersVoted": [{
+      "id": 3,
+      "firstName": "Ronald",
+      "lastName": "Ding",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 1
+  }],
+  "voted": true,
+  "decision": 0,
+  "timeStamp": 1458015382589,
+  "expiration": 2758015382589,
+  "color": "blue"
+}, {
+  "id": 5,
+  "question": "Favorite Class?",
+  "userId": 4,
+  "responses": [{
+    "id": 1,
+    "option": "COMP550",
+    "selected": false,
+    "usersVoted": [{
+      "id": 2,
+      "firstName": "Ram",
+      "lastName": "Rao",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }, {
+      "id": 3,
+      "firstName": "Ronald",
+      "lastName": "Ding",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 2
+  }, {
+    "id": 2,
+    "option": "ECON 420",
+    "selected": false,
+    "usersVoted": [{
+      "id": 1,
+      "firstName": "Jay",
+      "lastName": "Kabra",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 1
+  }, {
+    "id": 3,
+    "option": "None of the above",
+    "selected": true,
+    "usersVoted": null,
+    "count": 0
+  }],
+  "voted": true,
+  "decision": 3,
+  "timeStamp": 1458015382589,
+  "expiration": 2758015382589,
+  "color": "blue"
+}, {
+  "id": 6,
+  "question": "Where Should I go on Vacation?",
+  "userId": 1,
+  "responses": [{
+    "id": 1,
+    "option": "Hawaii",
+    "selected": false,
+    "usersVoted": [{
+      "id": 2,
+      "firstName": "Ram",
+      "lastName": "Rao",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 1
+  }, {
+    "id": 2,
+    "option": "Spain",
+    "selected": false,
+    "usersVoted": [{
+      "id": 3,
+      "firstName": "Ronald",
+      "lastName": "Ding",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 1
+  }, {
+    "id": 3,
+    "option": "Mexico",
+    "selected": true,
+    "usersVoted": [{
+        "id": 6,
+        "firstName": "Joel",
+        "lastName": "Paige",
+        "pollsPosted": null,
+        "pollsResponded": null,
+        "friends": null
+      },
+
+      {
+        "id": 7,
+        "firstName": "Marcus",
+        "lastName": "James",
+        "pollsPosted": null,
+        "pollsResponded": null,
+        "friends": null
+      }
+    ],
+    "count": 2
+  }, {
+    "id": 4,
+    "option": "Raleigh",
+    "selected": false,
+    "usersVoted": [{
+      "id": 8,
+      "firstName": "Bob",
+      "lastName": "Willow",
+      "pollsPosted": null,
+      "pollsResponded": null,
+      "friends": null
+    }],
+    "count": 1
+  }],
+  "voted": true,
+  "decision": 3,
+  "timeStamp": 1458015382589,
+  "expiration": 2758015382589,
+  "color": "orange"
+}]
